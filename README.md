@@ -23,3 +23,9 @@ A software framework is built on top of a programming language. For example, Rai
 - Principle of inversion of control (PoC)
 
 Inversion of Control is a principle in software engineering which transfers the control of objects or portions of a program to a container or framework. We most often use it in the context of object-oriented programming.
+
+- p2p rete (File passaparola)
+
+In inglese, peer to peer, spesso abbreviato come p2p, significa “tra pari” e descrive un tipo di rete di comunicazione in cui ciascun nodo comunica direttamente con gli altri, senza la mediazione di un server.
+
+I nodi, dunque, non sono gerarchizzati tramite il binomio client e server, ma si tratta di nodi paritari (peer in inglese, per l'appunto), in grado di svolgere sia il "ruolo" di cliente, sia quello di servente.
